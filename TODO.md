@@ -3,6 +3,7 @@
 - [x] Convert Sketch to HTML/CSS
 - [x] Mock index page
 - [x] CSS animation on front-page
+- [ ] Improve responsive CSS for mobile, tablets.
 - [ ] Add client logos
 - [ ] Update client testimony
 - [ ] Add Grunt or Gulp support
