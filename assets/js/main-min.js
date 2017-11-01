@@ -1,0 +1,1 @@
+$(document).ready(function(){$(window).on("scroll load",function(){$(window).scrollTop()>0?$("#header").addClass("scrolled"):$("#header").removeClass("scrolled")})});
