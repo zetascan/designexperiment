@@ -2919,6 +2919,11 @@ select {
   color: #253340;
 }
 /* Zetascan specific */
+.vcenter {
+  display: inline-block;
+  vertical-align: middle;
+  float: none;
+}
 DIV.headpromo H1 {
   font-family: 'open sans', arial, sans-serif;
   font-size: 3.5em;
@@ -3638,4 +3643,3 @@ header.scrolled a.btn-cta-secondary {
     padding-bottom: 80px;
   }
 }
-/*# sourceMappingURL=styles.css.map */
